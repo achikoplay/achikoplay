@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Hiruko Pro Alternate';
+    src: url('HirukoProAlternate.eot');
+    src: url('HirukoProAlternate.eot?#iefix') format('embedded-opentype'),
+        url('HirukoProAlternate.woff2') format('woff2'),
+        url('HirukoProAlternate.woff') format('woff'),
+        url('HirukoProAlternate.ttf') format('truetype'),
+        url('HirukoProAlternate.svg#HirukoProAlternate') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

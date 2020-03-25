@@ -1,0 +1,326 @@
+
+@media (min-width: 300px ) and (max-width: 414px) {
+  h1{
+    font-size: 1.5rem;
+  }
+  h2{
+    font-size: 1.3rem;
+  }
+  h3{
+    font-size: 1.2rem;
+  }
+  h4{
+    font-size: 1rem;
+  }
+  header .header__menu .header__menu--logofont{
+    font-size: 2.2rem;
+  }
+  header .header__menu--member > li, header .header__menu > li:not(:first-child){
+    display: none;
+  }
+  .mainbanner, .mainbanner__slider, .mainbanner__slider .mainbanner__slider--item{
+    min-height: 60vh;
+  }
+  .pdr-md-0{
+    padding-right:15px;
+  }
+  .pdl-md-0{
+    padding-left:15px;
+  }
+  .border-md-right{
+    border-right: 0;
+  }
+  .text-status{
+    padding:5px 15px;
+  }
+  .banner__game{
+    margin-top:0;
+  }
+  .maincontent__widget--upgradient{
+    margin-top:-60px;
+  }
+  .maincontent__widget--signin .maincontent__widget--signin--content{
+    max-width: 100%;
+  }
+  .maincontent__widget--signin--right,
+  .maincontent__widget--signin--left{
+    padding:0;
+  }
+  [data-target="#forgetpassword"]{
+    margin-bottom: 20px;
+  }
+  .maincontent__widget--communitytournament--filter__content{
+    width:100%;
+    overflow: hidden;
+    overflow-x: auto;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
+  .maincontent__widget--communitytournament--filter{
+    width:420px;
+  }
+  .communitytournament__wrap--picklogo--link--image{
+    width:135px;
+    height: 135px;
+  }
+  .communitytournament__list--item__body .communitytournament__list--item--info__item:not(.last){
+    width:43%;
+  }
+  .communitytournament__list--item__body .communitytournament__list--item--info__item:nth-child(2){
+    margin-right:0;
+  }
+  .communitytournament__list--item.communitytournament__list--item__filtering img{
+    width:100%
+  }
+  .communitytournament__list--item--info__price{
+    margin-top:20px;
+  }
+  .communitytournament__list--item--header{
+    padding:15px 15px;
+  }
+  .mainbanner__static{
+    min-height: calc(100vh - 60px);
+  }
+  .mainbanner__static--info{
+    height: 80%;
+  }
+  .mainbanner__static--info .mainbanner__static--info__btn{
+    margin: 14% 0;
+  }
+  .mainbanner__static--info .mainbanner__static--info__icon--text{
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  .maincontent__widget--discord{
+    height: auto;
+  }
+  .footer__powered{
+    border-left: 0;
+    margin:0 auto;
+    padding: 0 30px 15px 30px;
+    text-align: center;
+  }
+  .footer__powered .footer__powered--social{
+    display: inline-block;
+    margin-bottom: 25px;
+  }
+  .footer__powered--faq:hover, .footer__powered--faq{
+    width:100%;
+  }
+  .footer__copyright .footer__copyright--list li a{
+    margin:0 0;
+    padding:0 10px;
+  }
+  .footer__copyright .footer__copyright--list li:first-child a{
+    padding-left:0;
+  }
+  .footer__copyright .footer__copyright--list li:last-child a{
+    padding-right:0;
+  }
+}
+
+
+@media (min-width: 415px ) and (max-width: 767px) {
+
+  h1{
+    font-size: 1.3rem;
+  }
+  h2{
+    font-size: 1.2rem;
+  }
+  h3{
+    font-size: 1.1rem;
+  }
+  h4{
+    font-size: 1rem;
+  }
+  header .header__menu .header__menu--logofont{
+    font-size: 2.2rem;
+  }
+  header .header__menu--member > li, header .header__menu > li:not(:first-child){
+    display: none;
+  }
+  .mainbanner, .mainbanner__slider, .mainbanner__slider .mainbanner__slider--item{
+    min-height: 60vh;
+  }
+  .pdr-md-0{
+    padding-right:15px;
+  }
+  .pdl-md-0{
+    padding-left:15px;
+  }
+  .border-md-right{
+    border-right: 0;
+  }
+  .text-status{
+    padding:5px 15px;
+  }
+  .banner__game{
+    margin-top:0;
+  }
+  .maincontent__widget--upgradient{
+    margin-top:-60px;
+  }
+  .maincontent__widget--signin .maincontent__widget--signin--content{
+    max-width: 100%;
+  }
+  .maincontent__widget--signin--right,
+  .maincontent__widget--signin--left{
+    padding:0;
+  }
+  [data-target="#forgetpassword"]{
+    margin-bottom: 20px;
+  }
+  .maincontent__widget--communitytournament--filter__content{
+    width:100%;
+    overflow: hidden;
+    overflow-x: auto;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
+  .maincontent__widget--communitytournament--filter{
+    width:420px;
+  }
+  .communitytournament__wrap--picklogo--link--image{
+    width:135px;
+    height: 135px;
+  }
+  .communitytournament__list--item__body .communitytournament__list--item--info__item:not(.last){
+    width:43%;
+  }
+  .communitytournament__list--item__body .communitytournament__list--item--info__item:nth-child(2){
+    margin-right:0;
+  }
+  .communitytournament__list--item.communitytournament__list--item__filtering img{
+    width:100%
+  }
+  .communitytournament__list--item--info__price{
+    margin-top:20px;
+  }
+  .communitytournament__list--item--header{
+    padding:15px 15px;
+  }
+  .mainbanner__static{
+    min-height: calc(100vh - 60px);
+  }
+  .mainbanner__static--info{
+    position: relative;
+    margin-top: 80px;
+    padding-top: 40px;
+    height: 100%
+  }
+  .mainbanner__static > img{
+    display: none;
+  }
+  .mainbanner__static--info .mainbanner__static--info__btn{
+    margin: 14% 0;
+  }
+  .mainbanner__static--info .mainbanner__static--info__icon--text{
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  .maincontent__widget--discord{
+    height: auto;
+  }
+  .maincontent__widget--promo--image img,
+  .maincontent__widget--games--image a img{
+    width:100%;
+  }
+  .footer__powered{
+    border-left: 0;
+    margin:0 auto;
+    padding: 0 30px 15px 30px;
+    text-align: center;
+  }
+  .footer__powered .footer__powered--social{
+    display: inline-block;
+    margin-bottom: 25px;
+  }
+  .footer__powered--faq:hover, .footer__powered--faq{
+    width:100%;
+  }
+  .footer__copyright .footer__copyright--list li a{
+    margin:0 0;
+    padding:0 10px;
+  }
+  .footer__copyright .footer__copyright--list li:first-child a{
+    padding-left:0;
+  }
+  .footer__copyright .footer__copyright--list li:last-child a{
+    padding-right:0;
+  }
+}
+
+@media (min-width: 768px ) and (max-width: 1023px) {
+  header .header__menu .header__menu--logofont{
+    font-size: 1.5rem;
+  }
+  .nav-link{
+    padding:.5rem .5rem;
+  }
+  .communitytournament__list--item--header{
+    padding:15px 15px;
+  }
+  .communitytournament__list--item--header .text-status{
+    float:left !important;
+    margin-top:10px;
+  }
+  .maincontent__widget--communitytournament--filter__content{
+    width:100%;
+    overflow: hidden;
+    overflow-x: auto;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
+  .communitytournament__list--item__body .communitytournament__list--item--info__item:not(.last){
+    margin-right:3rem;
+    width:40%;
+  }
+  .communitytournament__list--item__body .communitytournament__list--item--info__item:nth-child(2){
+    margin-right:0rem;
+  }
+  .communitytournament__list--item--info__price h4{
+    font-size: 1.2rem;
+  }
+  .col-lg-3.col-md-12.pdr-md-0{
+    padding-right:15px;
+  }
+  .col-lg-9.col-md-12.bg-dark-list{
+    background-color: transparent;
+  }
+  .communitytournament__list--item--header,
+  .communitytournament__list--item__body{
+    background-color: #17181A;
+  }
+  .communitytournament__list--item--info__price{
+    margin-top:20px;
+  }
+  .maincontent__widget--past--content{
+    padding-right: 15px;
+  }
+  .mainbanner__static--info .mainbanner__static--info__btn{
+    margin:20% 0;
+  }
+}
+@media (min-width: 1024px ) and (max-width: 1200px) {
+  h1{
+    font-size: 2rem;
+  }
+  .mainbanner__static--info .mainbanner__static--info__btn{
+    margin:11% 0;
+  }
+  .maincontent__widget--past--content{
+      padding-right: 15px;
+  }
+}
+@media (min-width: 1200px ) and (max-width: 1440px) {
+
+}
+
+@media (min-width: 1441px ) and (max-width: 2560px) {
+
+}
+
+@media (min-width: 2561px ) {
+
+}
